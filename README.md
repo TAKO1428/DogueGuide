@@ -35,4 +35,4 @@ cd repository_address
 python app.py
 ```
 
-https://github.com/TAKO1428/DogueGuide/blob/main/Doge_Guide-main/avatar/Doge.png
+![Doge_Guide](https://github.com/TAKO1428/DogueGuide/blob/main/Doge_Guide-main/avatar/Doge.png)
